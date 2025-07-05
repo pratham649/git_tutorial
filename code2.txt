@@ -1,1 +1,1 @@
-hello guys second file 
+print ("hello this is my first git repo")
